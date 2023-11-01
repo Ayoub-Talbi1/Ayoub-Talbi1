@@ -7,8 +7,6 @@
 </p>
 <p>Welcome to this area where I proudly present my work and projects. Delve into the diverse folders and files, and you'll discover instances that exemplify my coding prowess and adept problem-solving. Whether you're a prospective employer, a potential collaborator, or merely intrigued by the realm of data, I trust you'll uncover something valuable within.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-Talbi1"alt="Ayoub-Talbi1" /></a> </p>
-
 ## About me:
 
 - 🔭 I’m currently looking for an **Internship in Data Engineering** 
