@@ -18,7 +18,3 @@
 - 📫 Reach me at **talbi.ayoub.sm@gmail.com**
 
 - 📄 View my Linkedin profil here **[Linkedin ](https://www.linkedin.com/in/ayoub-talbi1/)**
-  
-
-## 🎓 Certifications:
-![AWS Cloud Practitioner](https://github.com/Ayoub-Talbi1/Ayoub-Talbi1/assets/86127094/c00cfa37-e978-4009-a42e-f141d056c947)
