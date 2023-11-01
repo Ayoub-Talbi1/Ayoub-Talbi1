@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I'm Ayoub Talbi
 
-<!--
-**Ayoub-Talbi1/Ayoub-Talbi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=⚙️+Data+Engineering+Student+⚙️;💻+Big+Data+Enthusiast+💻;📊+Data+Science+Student+📊;&center=true&width=500&height=50" alt="Typing animation showing my roles and certifications">
+  </a>
+</p>
+<p>Welcome to this area where I proudly present my work and projects. Delve into the diverse folders and files, and you'll discover instances that exemplify my coding prowess and adept problem-solving. Whether you're a prospective employer, a potential collaborator, or merely intrigued by the realm of data, I trust you'll uncover something valuable within.</p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayoub-Talbi1"alt="Ayoub-Talbi1" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+
+- 🔭 I’m currently looking for an **Internship in Data Engineering** 
+
+- 🌱 I’m currently learning **Data Engineering and Cloud Computing** 
+
+- 📫 Reach me at **talbi.ayoub.sm@gmail.com**
+
+- 📄 View my Linkedin profil here **[Linkedin ](https://www.linkedin.com/in/ayoub-talbi1/)**
+  
+
+## 🎓 Certifications:
+![AWS Cloud Practitioner](https://github.com/Ayoub-Talbi1/Ayoub-Talbi1/assets/86127094/c00cfa37-e978-4009-a42e-f141d056c947)
