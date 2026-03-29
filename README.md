@@ -9,9 +9,11 @@
 
 ## About me:
 
-- 🔭 Data Engineer | Databricks Expert | Python/Scala | AWS/Azure** 
+- 🔭 **Data Engineer | Databricks Expert | Python/Scala | AWS/Azure**
 
-- 🌱 I have successfully led the migration and modernization of mission-critical systems and big data** 
+- 🔭 I collaborated with big french clients : **TotalEnergies** | **TF1 Group** | **Colas**
+
+- 🌱 I have successfully led the **migration** and **modernization** of mission-critical systems and **big data**
 
 - 📫 Reach me at **talbi.ayoub.sm@gmail.com**
 
