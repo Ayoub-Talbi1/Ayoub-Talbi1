@@ -9,9 +9,9 @@
 
 ## About me:
 
-- 🔭 I’m currently looking for an **Internship in Data Engineering** 
+- 🔭 Data Engineer | Databricks Expert | Python/Scala | AWS/Azure** 
 
-- 🌱 I’m currently learning **Data Engineering and Cloud Computing** 
+- 🌱 I have successfully led the migration and modernization of mission-critical systems and big data** 
 
 - 📫 Reach me at **talbi.ayoub.sm@gmail.com**
 
