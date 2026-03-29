@@ -13,7 +13,7 @@
 
 - 🔭 I collaborated with big french clients : **TotalEnergies** | **TF1 Group** | **Colas**
 
-- 🌱 I have successfully led the **migration** and **modernization** of mission-critical systems and **big data**
+- 🔭 I have successfully led the **migration** and **modernization** of mission-critical systems and **big data**
 
 - 📫 Reach me at **talbi.ayoub.sm@gmail.com**
 
